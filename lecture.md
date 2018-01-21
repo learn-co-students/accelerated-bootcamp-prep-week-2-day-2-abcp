@@ -65,3 +65,4 @@ Ever used a website where an action you took triggered something to happen on th
 In JavaScript, these things that happen are called DOM events and the code written to trigger the action is called an event listener or event handler.
 
 # Final Project: Rock Dodger
+This was added to your IDE.
