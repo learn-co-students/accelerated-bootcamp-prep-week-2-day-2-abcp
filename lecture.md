@@ -9,7 +9,7 @@ It wraps up a lot of the verbose functionality of JavaScript into simple, semant
 
 We need to include the jQuery library in our project in order to use it.
 
-One way to do so is via the Google CDN. Add the following to your index.html
+One way to do so is v-ia the Google CDN. Add the following to your index.html
 
 ```html
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
